@@ -1,0 +1,9 @@
+[
+  {
+    "filename": "stan-api-graphql-results.xml",
+    "url": "http://reports-nfs.qe-auto-results.fyre.ibm.com/instana/reports/TEST_preview+3.314.120-0+1.314.245/online/e2e/20260204-210155/api/stan-api-graphql-qwmz7-0/stan-api-graphql-results.xml",
+    "type": "GraphQL",
+    "content": "<?xml version='1.0' encoding='utf-8'?>\n<testsuite name=\"stan-api-graphql\" tests=\"1\" errors=\"0\" failures=\"1\" skipped=\"0\" time=\"0.0\"><testcase name=\"result-file-not-found\" time=\"0.0\"><failure message=\"No result xml file found\" type=\"ParseError\" /></testcase></testsuite>",
+    "size": 268
+  }
+]
