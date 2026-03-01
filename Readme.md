@@ -1,4 +1,4 @@
-# :robot_face: AI-Powered Test Oracle: Intelligent Assertion Generator
+# :robot : AI-Powered Test Oracle: Intelligent Assertion Generator
 
 [![Hackathon](https://img.shields.io/badge/Synergy-Hackathon-blue.svg)](https://synergy-hackathon.com)
 [![AI](https://img.shields.io/badge/AI-Powered-green.svg)](https://github.com)
